@@ -1,5 +1,4 @@
 # Hafidz
-web
 <html>
 
 <title>
@@ -9,3 +8,5 @@ Pembelajaran Coding HTML
 <head>
 Halo
 </head>
+
+</html>
